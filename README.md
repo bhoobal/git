@@ -25,6 +25,7 @@ git log -1
 git add .
 git reset HEAD README.md  //unstage changes
 
-
+#push new branch to origin#
+git push -u origin newbranch
 
 
