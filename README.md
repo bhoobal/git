@@ -14,3 +14,17 @@ git config --global user.email 'bhoobal@gmail.com'
 
 #list global config#
 git config --global -l
+
+#git commit - below command commit the change#
+git commit filename
+
+# view last history #
+git log -1
+
+#stash /stage changes#
+git add .
+git reset HEAD README.md  //unstage changes
+
+
+
+
